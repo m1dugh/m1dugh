@@ -6,3 +6,6 @@
 - self-taught programer
 - 7+ years of experience
 - currently at French IT school of [Epita](https://www.epita.fr/en/)
+
+
+*NB: this README has been greatly inspired from [v0idp's repo](https://github.com/v0idp/v0idp)*
